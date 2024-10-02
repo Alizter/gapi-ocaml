@@ -51,7 +51,7 @@ This library was developed and tested on Ubuntu LTS (64-bit).
 [OCaml]: http://www.ocaml.org/docs/install.html
 [Findlib]: http://projects.camlcity.org/projects/findlib.html/
 [Ocamlnet]: http://projects.camlcity.org/projects/ocamlnet.html
-[Ocurl]: http://ygrek.org.ua/p/ocurl/
+[Ocurl]: https://ygrek.org/p/ocurl/
 [Cryptokit]: https://github.com/xavierleroy/cryptokit
 [Yojson]: https://github.com/ocaml-community/yojson
 [Xmlm]: http://erratique.ch/software/xmlm
